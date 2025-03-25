@@ -40,7 +40,7 @@ YÊU CẦU:
 
 ## Tạo Database QLSV:
    * Mở SSMS và kết nối đến SQL Server.
-   * Chuột phải vào "Databases" trong Object Explorer, chọn "New Database...".
+   * Chuột phải vào "Databases", chọn "New Database...".
      
 ![image](https://github.com/user-attachments/assets/bf3a65e3-3fc1-4691-a667-991fb0e6a35b)
 
