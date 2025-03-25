@@ -54,9 +54,8 @@ YÊU CẦU:
      
 ![image](https://github.com/user-attachments/assets/2d5d700e-0e55-4f0c-b2aa-c1c389b988fd)
 
-   * Nhập tên cột, kiểu dữ liệu và chuột phải dòng dữ liệu đã chọn để thay đổi các ràng buộc (PK, FK, CK) nhưng ở đây chúng ta có Primery Key tạm thời chúng ta sẽ chọn làm PK trước, sau đó Ctrl+S đặt tên bảng của dữ liệu đã nhập.
+   * Nhập tên cột, kiểu dữ liệu và chuột phải dòng dữ liệu đã chọn để thay đổi các ràng buộc (PK, FK, CK) nhưng ở đây chúng ta có Primery Key tạm thời chúng ta sẽ chọn làm PK trước.
    * Và ở Data Type:
-     
 CHAR(10): Dùng cho các mã khóa chính, đảm bảo độ dài cố định (ở đây là 10).
 
 NVARCHAR(50): Dùng cho tên, có hỗ trợ Unicode tối đa 50 ký tự.
@@ -72,6 +71,8 @@ FLOAT: Dùng cho điểm thi.
 CHECK: Đảm bảo giá trị hợp lệ.
 
 FOREIGN KEY: Định nghĩa khóa ngoại liên kết giữa các bảng.
+
+   * Sau đó ta Ctrl+S và đặt tên bảng của dữ liệu đã nhập.
      
 ![image](https://github.com/user-attachments/assets/53e28fd2-8269-41a5-bb37-31b952334e83)
 
